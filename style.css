@@ -178,6 +178,7 @@ body {
 }
 
 .btn {
+  text-decoration: none;
   display: block;
   width: 130px;
   padding: 12px;
@@ -186,6 +187,8 @@ body {
   float: left;
   margin-right: 30px;
   margin-top: 20px;
+  color: #ebebeb;
+  font-weight: bold;
 }
 
 .btn a {
